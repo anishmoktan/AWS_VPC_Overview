@@ -1,5 +1,7 @@
 # AWS_VPC_Overview
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.aws.amazon.com%2Fvpc%2Flatest%2Fuserguide%2FVPC_Scenario2.html&psig=AOvVaw1Pz_bCzsZBiivWDBZbxuhi&ust=1604630007258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDjzN6u6uwCFQAAAAAdAAAAABAI
+
 - Amazon Virtual Private Cloud (VPC) enables you to launch AWS resources into a virtual network that you've defined. This virtual network closely resembles traditional network that you'd operate in your own data center but with the benefits of using scalable infrastructure of AWS. 
 
 - There are three types of IP address in AWS. A private IP address that's not reachable over the Internet and is used for communication between instances in the same network. A public IP address that is reachable from the internet, which you can use for communication between your instances and the internet. And finally, an elastic IP address this is a static public persistent IP address that persists after an instance restarts whereas a public IP address is risked associated after each restart. 
