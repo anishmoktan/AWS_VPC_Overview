@@ -1,6 +1,6 @@
 # AWS_VPC_Overview
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.aws.amazon.com%2Fvpc%2Flatest%2Fuserguide%2FVPC_Scenario2.html&psig=AOvVaw1Pz_bCzsZBiivWDBZbxuhi&ust=1604630007258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDjzN6u6uwCFQAAAAAdAAAAABAI
+https://docs.aws.amazon.com/vpc/latest/userguide/images/nat-gateway-diagram.png
 
 - Amazon Virtual Private Cloud (VPC) enables you to launch AWS resources into a virtual network that you've defined. This virtual network closely resembles traditional network that you'd operate in your own data center but with the benefits of using scalable infrastructure of AWS. 
 
